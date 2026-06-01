@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suryaansh Dev</h1>
 <h3 align="center">A passionate coder from India :3</h3>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=senpai" alt="senpai" /> </p>
-
 - 🌱 I’m currently learning **AI-ML, DeepLearning, LLMs, GenAI**
 
 - 👯 I’m looking to collaborate on **C++/C#/Godot Game Dev projects**
