@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suryaansh Dev</h1>
 <h3 align="center">A passionate coder from India :3</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senpai" alt="senpai" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=senpai" alt="senpai" /> </p>
 
 - 🌱 I’m currently learning **AI-ML, DeepLearning, LLMs, GenAI**
 
