@@ -14,5 +14,3 @@ I am currently working on building games with C++ using raylib.<br>I love to cod
 
 ---
 [![](https://komarev.com/ghpvc/?username=Senpai&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
